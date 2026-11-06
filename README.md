@@ -49,20 +49,21 @@
 <h2 align="center">STATS &amp; PROGRESS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mharoon07&show_icons=true&count_private=true&include_all_commits=true&custom_title=PLAYER%20STATS&bg_color=1a0b2e&title_color=ff2e93&text_color=ffd6f5&icon_color=00e5ff&border_color=ff2e93&ring_color=ffb347" alt="GitHub Stats" height="195" />
+  <img src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" height="195" />
   <img src="https://streak-stats.demolab.com/?user=mharoon07&background=1a0b2e&border=ff2e93&stroke=ff2e93&ring=ffb347&fire=ff6a3d&currStreakNum=ffd6f5&sideNums=ffd6f5&currStreakLabel=ffb347&sideLabels=00e5ff&dates=c9a7e0" alt="GitHub Streak" height="195" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon07&layout=compact&custom_title=ARSENAL&bg_color=1a0b2e&title_color=ff2e93&text_color=ffd6f5&border_color=ff2e93" alt="Top Languages" height="165" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages" height="165" />
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mharoon07&bg_color=1a0b2e&color=ff2e93&line=ff6a3d&point=ffe45c&area=true&area_color=ff2e93&title_color=ffb347&hide_border=true&custom_title=Contribution%20Heat" alt="Activity Graph" width="100%" />
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" height="195" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -75,10 +76,10 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">ACHIEVEMENTS</h2>
+<h2 align="center">NIGHT SHIFT</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mharoon07&theme=dracula&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
